@@ -1,0 +1,621 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "unified",
+          "description": "Ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-29T11:25:24Z",
+            "owner": "unifiedjs",
+            "repo": "unified",
+            "stars": 5020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype",
+          "description": "Repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-13T11:25:56Z",
+            "owner": "rehypejs",
+            "repo": "rehype",
+            "stars": 2244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-parse",
+          "description": "HTML parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-13T11:25:56Z",
+            "owner": "rehypejs",
+            "repo": "rehype",
+            "stars": 2244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-stringify",
+          "description": "HTML generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-13T11:25:56Z",
+            "owner": "rehypejs",
+            "repo": "rehype",
+            "stars": 2244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-cli",
+          "description": "Command line interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-13T11:25:56Z",
+            "owner": "rehypejs",
+            "repo": "rehype",
+            "stars": 2244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hast",
+          "description": "Abstract syntax tree specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-17T12:10:33Z",
+            "owner": "syntax-tree",
+            "repo": "hast",
+            "stars": 905
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rehype-react",
+          "description": "Generate React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-25T10:52:44Z",
+            "owner": "rehypejs",
+            "repo": "rehype-react",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-highlight",
+          "description": "Highlight code blocks with lowlight (Highlight.js).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-21T09:20:09Z",
+            "owner": "rehypejs",
+            "repo": "rehype-highlight",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-webparser",
+          "description": "XML-like HTML parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T19:16:15Z",
+            "owner": "Prettyhtml",
+            "repo": "prettyhtml",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-prism",
+          "description": "Highlight code blocks with refractor (Prism).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-04-16T15:39:51Z",
+            "owner": "mapbox",
+            "repo": "rehype-prism",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-remark",
+          "description": "Integrate with the remark ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T12:19:53Z",
+            "owner": "rehypejs",
+            "repo": "rehype-remark",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-minify",
+          "description": "Minify HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-19T15:33:01Z",
+            "owner": "rehypejs",
+            "repo": "rehype-minify",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-toc",
+          "description": "Add a table of contents (TOC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-29T17:11:53Z",
+            "owner": "JS-DevTools",
+            "repo": "rehype-toc",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-format",
+          "description": "Format HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-19T11:22:46Z",
+            "owner": "rehypejs",
+            "repo": "rehype-format",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-document",
+          "description": "Wrap a fragment in a document.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-18T09:44:27Z",
+            "owner": "rehypejs",
+            "repo": "rehype-document",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-dom",
+          "description": "Use the DOM to parse / stringify in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-09T11:14:17Z",
+            "owner": "rehypejs",
+            "repo": "rehype-dom",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-url-inspector",
+          "description": "Inspect, validate, or rewrite URLs anywhere in the document",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-18T19:57:40Z",
+            "owner": "JS-DevTools",
+            "repo": "rehype-url-inspector",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-retext",
+          "description": "Integrate with the retext ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T14:00:57Z",
+            "owner": "rehypejs",
+            "repo": "rehype-retext",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-inline-svg",
+          "description": "Inline and optimize SVGs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-16T14:59:18Z",
+            "owner": "JS-DevTools",
+            "repo": "rehype-inline-svg",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-truncate",
+          "description": "Truncate HTML while preserving its structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T02:14:42Z",
+            "owner": "luk707",
+            "repo": "rehype-truncate",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gatsby",
+          "description": "Blazing fast, modern apps and websites with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MDX",
+          "description": "Markdown combined with JSX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T01:40:45Z",
+            "owner": "mdx-js",
+            "repo": "mdx",
+            "stars": 19736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decap CMS",
+          "description": "CMS for static site generators (formerly netlify-cms).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T23:33:32Z",
+            "owner": "decaporg",
+            "repo": "decap-cms",
+            "stars": 19296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdx-deck",
+          "description": "MDX-based presentation decks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T01:58:59Z",
+            "owner": "jxnblk",
+            "repo": "mdx-deck",
+            "stars": 11501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svgr",
+          "description": "Transform SVGs into React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-01T18:35:20Z",
+            "owner": "gregberge",
+            "repo": "svgr",
+            "stars": 11049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "documentation.js",
+          "description": "Documentation system for modern JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-15T18:50:26Z",
+            "owner": "documentationjs",
+            "repo": "documentation",
+            "stars": 5800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bytemd",
+          "description": "Hackable markdown editor component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-12T07:00:03Z",
+            "owner": "pd4d10",
+            "repo": "bytemd",
+            "stars": 1361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextein",
+          "description": "Static site generator with Markdown + React for Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-31T14:23:31Z",
+            "owner": "elmasse",
+            "repo": "nextein",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettyhtml",
+          "description": "Formatter for your Angular, Vue, Svelte or HTML templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T19:16:15Z",
+            "owner": "Prettyhtml",
+            "repo": "prettyhtml",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nteract",
+          "description": "Interactive computing suite for you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:51:09Z",
+            "owner": "nteract",
+            "repo": "nteract",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markdown-to-html-cli",
+          "description": "Command line tool that converts markdown to HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T09:54:34Z",
+            "owner": "jaywcjlove",
+            "repo": "markdown-to-html-cli",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "Built on rehype"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freeCodeCamp",
+          "description": "Learn to code for free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:59:57Z",
+            "owner": "freeCodeCamp",
+            "repo": "freeCodeCamp",
+            "stars": 453936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": "Node.js JavaScript runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:29:18Z",
+            "owner": "nodejs",
+            "repo": "node",
+            "stars": 118916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular",
+          "description": "Development platform for mobile and desktop apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:08:54Z",
+            "owner": "angular",
+            "repo": "angular",
+            "stars": 100992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxjs",
+          "description": "Reactive Extensions For JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T23:15:21Z",
+            "owner": "ReactiveX",
+            "repo": "rxjs",
+            "stars": 31704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stdlib",
+          "description": "Standard library emphasizing numerical and scientific applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T08:39:43Z",
+            "owner": "stdlib-js",
+            "repo": "stdlib",
+            "stars": 5928
+          }
+        }
+      ],
+      "title": "Built with rehype"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome remark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T09:29:49Z",
+            "owner": "remarkjs",
+            "repo": "awesome-remark",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome mdx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-07T09:14:59Z",
+            "owner": "mdx-js",
+            "repo": "awesome",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome unified",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T13:10:06Z",
+            "owner": "unifiedjs",
+            "repo": "awesome-unified",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome retext",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T10:11:01Z",
+            "owner": "retextjs",
+            "repo": "awesome-retext",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome syntax-tree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-04T11:55:23Z",
+            "owner": "syntax-tree",
+            "repo": "awesome-syntax-tree",
+            "stars": 125
+          }
+        }
+      ],
+      "title": "Related lists"
+    },
+    {
+      "description": "© Titus Wormer",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:53:21.858Z",
+    "original_repository": "rehypejs/awesome-rehype",
+    "original_repository_sha": "977444d24c80267e0b6710c66d798b627de038f3",
+    "enhanced_repository": "enhansome/enhansome-rehype",
+    "enhanced_repository_description": null,
+    "title": "awesome rehype with stars"
+  }
+}
