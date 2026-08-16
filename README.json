@@ -28,7 +28,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2245
+            "stars": 2246
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2245
+            "stars": 2246
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2245
+            "stars": 2246
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2245
+            "stars": 2246
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-15T00:01:50Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55943
           }
         },
         {
@@ -331,7 +331,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:37:36Z",
+            "last_commit": "2026-08-16T00:18:32Z",
             "owner": "decaporg",
             "repo": "decap-cms",
             "stars": 19295
@@ -429,7 +429,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T09:58:52Z",
+            "last_commit": "2026-08-15T09:39:55Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 160
@@ -463,10 +463,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:40:06Z",
+            "last_commit": "2026-08-16T02:34:07Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454031
+            "stars": 454082
           }
         },
         {
@@ -477,10 +477,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T22:44:36Z",
+            "last_commit": "2026-08-16T00:24:20Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 118918
+            "stars": 118945
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-08-14T16:29:46Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101007
+            "stars": 101010
           }
         },
         {
@@ -519,7 +519,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T06:24:54Z",
+            "last_commit": "2026-08-16T06:45:25Z",
             "owner": "stdlib-js",
             "repo": "stdlib",
             "stars": 5929
@@ -584,7 +584,7 @@
             "last_commit": "2024-10-03T10:11:01Z",
             "owner": "retextjs",
             "repo": "awesome-retext",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -611,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:56:22.133Z",
+    "last_updated": "2026-08-16T07:56:28.863Z",
     "original_repository": "rehypejs/awesome-rehype",
     "original_repository_sha": "977444d24c80267e0b6710c66d798b627de038f3",
     "enhanced_repository": "enhansome/enhansome-rehype",
