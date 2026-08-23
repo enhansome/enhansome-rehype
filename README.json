@@ -15,7 +15,7 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5022
+            "stars": 5023
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55940
+            "stars": 55939
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-21T11:33:49Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19748
+            "stars": 19747
           }
         },
         {
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 29514104,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:26:23Z",
+            "last_commit": "2026-08-23T00:18:38Z",
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19307
+            "stars": 19311
           }
         },
         {
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 1155631492,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:35:44Z",
+            "last_commit": "2026-08-23T04:08:14Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 160
@@ -495,10 +495,10 @@
             "archived": false,
             "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:25:58Z",
+            "last_commit": "2026-08-22T08:58:17Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454428
+            "stars": 454459
           }
         },
         {
@@ -510,10 +510,10 @@
             "archived": false,
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T07:40:18Z",
+            "last_commit": "2026-08-23T05:34:30Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119146
+            "stars": 119306
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-22T01:13:19Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 100996
+            "stars": 100999
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-08T23:15:21Z",
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31698
+            "stars": 31700
           }
         },
         {
@@ -555,10 +555,10 @@
             "archived": false,
             "id": 54614238,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T07:57:14Z",
+            "last_commit": "2026-08-23T06:17:32Z",
             "owner": "stdlib-js",
             "repo": "stdlib",
-            "stars": 5932
+            "stars": 5936
           }
         }
       ],
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:57:46.879Z",
+    "last_updated": "2026-08-23T07:59:07.587Z",
     "original_repository": "rehypejs/awesome-rehype",
     "original_repository_id": 156001375,
     "original_repository_sha": "977444d24c80267e0b6710c66d798b627de038f3",
