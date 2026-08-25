@@ -51,7 +51,7 @@ collective.
 
 * [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - Blazing fast, modern apps and websites with React.
 * [MDX](https://github.com/mdx-js/mdx) ⭐ 19,748 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-21 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,316 | 🐛 589 | 🌐 JavaScript | 📅 2026-08-23 - CMS for static site generators (formerly netlify-cms).
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,316 | 🐛 589 | 🌐 JavaScript | 📅 2026-08-25 - CMS for static site generators (formerly netlify-cms).
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,499 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
 * [svgr](https://github.com/gregberge/svgr) ⭐ 11,054 | 🐛 148 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
 * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,799 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
@@ -63,11 +63,11 @@ collective.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,558 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-25 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 119,547 | 🐛 1,380 | 🌐 JavaScript | 📅 2026-08-25 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,005 | 🐛 1,137 | 🌐 TypeScript | 📅 2026-08-25 - Development platform for mobile and desktop apps.
-* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,703 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,939 | 🐛 1,362 | 🌐 JavaScript | 📅 2026-08-25 - Standard library emphasizing numerical and scientific applications.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,564 | 🐛 262 | 🌐 TypeScript | 📅 2026-08-25 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 119,550 | 🐛 1,382 | 🌐 JavaScript | 📅 2026-08-25 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,005 | 🐛 1,138 | 🌐 TypeScript | 📅 2026-08-25 - Development platform for mobile and desktop apps.
+* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,704 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,939 | 🐛 1,358 | 🌐 JavaScript | 📅 2026-08-25 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
