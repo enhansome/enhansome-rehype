@@ -30,7 +30,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2246
+            "stars": 2247
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2246
+            "stars": 2247
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2246
+            "stars": 2247
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2246
+            "stars": 2247
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2246
+            "stars": 2247
           }
         }
       ],
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55943
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-21T11:33:49Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19747
+            "stars": 19748
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-23T00:18:38Z",
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19313
+            "stars": 19316
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2023-01-04T01:58:59Z",
             "owner": "jxnblk",
             "repo": "mdx-deck",
-            "stars": 11498
+            "stars": 11499
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-03-01T18:35:20Z",
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11053
+            "stars": 11054
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-24T09:48:40Z",
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -510,10 +510,10 @@
             "archived": false,
             "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:30:07Z",
+            "last_commit": "2026-08-25T05:52:19Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454519
+            "stars": 454558
           }
         },
         {
@@ -525,10 +525,10 @@
             "archived": false,
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:31:35Z",
+            "last_commit": "2026-08-25T02:52:18Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119339
+            "stars": 119547
           }
         },
         {
@@ -540,10 +540,10 @@
             "archived": false,
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T01:13:19Z",
+            "last_commit": "2026-08-25T00:14:55Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101003
+            "stars": 101005
           }
         },
         {
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 54614238,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:30:31Z",
+            "last_commit": "2026-08-25T06:19:55Z",
             "owner": "stdlib-js",
             "repo": "stdlib",
             "stars": 5939
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:45.751Z",
+    "last_updated": "2026-08-25T06:22:02.067Z",
     "original_repository": "rehypejs/awesome-rehype",
     "original_repository_id": 156001375,
     "original_repository_sha": "977444d24c80267e0b6710c66d798b627de038f3",
