@@ -15,8 +15,9 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5023
-          }
+            "stars": 5024
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2250
-          }
+            "stars": 2251
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2250
-          }
+            "stars": 2251
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2250
-          }
+            "stars": 2251
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2250
-          }
+            "stars": 2251
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "syntax-tree",
             "repo": "hast",
             "stars": 906
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         }
       ],
       "title": "Official"
@@ -112,7 +118,8 @@
             "owner": "rehypejs",
             "repo": "rehype-react",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2025-02-21T09:20:09Z",
             "owner": "rehypejs",
             "repo": "rehype-highlight",
-            "stars": 330
-          }
+            "stars": 331
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Prettyhtml",
             "repo": "prettyhtml",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "mapbox",
             "repo": "rehype-prism",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "rehypejs",
             "repo": "rehype-remark",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "rehypejs",
             "repo": "rehype-minify",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "JS-DevTools",
             "repo": "rehype-toc",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "rehypejs",
             "repo": "rehype-format",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "rehypejs",
             "repo": "rehype-document",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "rehypejs",
             "repo": "rehype-dom",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "JS-DevTools",
             "repo": "rehype-url-inspector",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "rehypejs",
             "repo": "rehype-retext",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "JS-DevTools",
             "repo": "rehype-inline-svg",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "luk707",
             "repo": "rehype-truncate",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -321,8 +341,9 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2250
-          }
+            "stars": 2251
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         }
       ],
       "title": "Plugins"
@@ -339,11 +360,12 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:59:39Z",
+            "last_commit": "2026-08-28T03:41:15Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55941
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -357,8 +379,9 @@
             "last_commit": "2026-08-25T20:42:13Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19753
-          }
+            "stars": 19758
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -369,11 +392,12 @@
             "archived": false,
             "id": 29514104,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:41:45Z",
+            "last_commit": "2026-08-28T14:41:03Z",
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19319
-          }
+            "stars": 19321
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "jxnblk",
             "repo": "mdx-deck",
             "stars": 11500
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -402,8 +427,9 @@
             "last_commit": "2026-03-01T18:35:20Z",
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11055
-          }
+            "stars": 11057
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "documentationjs",
             "repo": "documentation",
             "stars": 5799
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "pd4d10",
             "repo": "bytemd",
             "stars": 1366
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "elmasse",
             "repo": "nextein",
             "stars": 887
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "Prettyhtml",
             "repo": "prettyhtml",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -474,11 +504,12 @@
             "archived": false,
             "id": 1155631492,
             "language": "Rust",
-            "last_commit": "2026-08-27T18:20:51Z",
+            "last_commit": "2026-08-28T13:24:16Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "jaywcjlove",
             "repo": "markdown-to-html-cli",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         }
       ],
       "title": "Built on rehype"
@@ -510,11 +542,12 @@
             "archived": false,
             "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:46:46Z",
+            "last_commit": "2026-08-28T19:26:48Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454690
-          }
+            "stars": 454743
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -525,11 +558,12 @@
             "archived": false,
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:10:47Z",
+            "last_commit": "2026-08-28T18:33:10Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119645
-          }
+            "stars": 119655
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -540,11 +574,12 @@
             "archived": false,
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:23:33Z",
+            "last_commit": "2026-08-28T09:19:13Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101005
-          }
+            "stars": 101004
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "ReactiveX",
             "repo": "rxjs",
             "stars": 31703
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -570,11 +606,12 @@
             "archived": false,
             "id": 54614238,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T18:17:31Z",
+            "last_commit": "2026-08-28T18:13:31Z",
             "owner": "stdlib-js",
             "repo": "stdlib",
             "stars": 5944
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         }
       ],
       "title": "Built with rehype"
@@ -594,8 +631,9 @@
             "last_commit": "2024-10-03T09:29:49Z",
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 493
-          }
+            "stars": 494
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "mdx-js",
             "repo": "awesome",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "unifiedjs",
             "repo": "awesome-unified",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "retextjs",
             "repo": "awesome-retext",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         },
         {
           "node_type": "item",
@@ -655,14 +696,15 @@
             "owner": "syntax-tree",
             "repo": "awesome-syntax-tree",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T19:34:48.734Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:24:01.049Z",
+    "last_updated": "2026-08-28T19:34:48.734Z",
     "original_repository_info": {
       "archived": false,
       "id": 156001375,
