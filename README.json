@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse, inspect, transform, and serialize content with syntax trees",
+            "homepage": "https://unifiedjs.com",
             "id": 39996248,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-29T11:25:24Z",
+            "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5024
+            "stars": 5024,
+            "topics": [
+              "ast",
+              "cst",
+              "javascript",
+              "plugins",
+              "processor",
+              "syntax-tree",
+              "unist",
+              "vfile"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -26,12 +40,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://unifiedjs.com",
             "id": 52511671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T11:25:56Z",
+            "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2251
+            "stars": 2251,
+            "topics": [
+              "ast",
+              "html",
+              "javascript",
+              "rehype",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -42,12 +67,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://unifiedjs.com",
             "id": 52511671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T11:25:56Z",
+            "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2251
+            "stars": 2251,
+            "topics": [
+              "ast",
+              "html",
+              "javascript",
+              "rehype",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -58,12 +94,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://unifiedjs.com",
             "id": 52511671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T11:25:56Z",
+            "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2251
+            "stars": 2251,
+            "topics": [
+              "ast",
+              "html",
+              "javascript",
+              "rehype",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -74,12 +121,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://unifiedjs.com",
             "id": 52511671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T11:25:56Z",
+            "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2251
+            "stars": 2251,
+            "topics": [
+              "ast",
+              "html",
+              "javascript",
+              "rehype",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -90,12 +148,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hypertext Abstract Syntax Tree format",
+            "homepage": "https://unifiedjs.com",
             "id": 42365050,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-17T12:10:33Z",
+            "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "hast",
-            "stars": 906
+            "stars": 906,
+            "topics": [
+              "ast",
+              "html",
+              "hypertext",
+              "syntax-tree",
+              "unist"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         }
@@ -112,12 +181,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to transform to preact, react, vue, etc",
+            "homepage": "https://unifiedjs.com",
             "id": 70198154,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-25T10:52:44Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-react",
-            "stars": 438
+            "stars": 438,
+            "topics": [
+              "preact",
+              "react",
+              "rehype",
+              "rehype-plugin",
+              "solid",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -128,12 +209,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to highlight code blocks",
+            "homepage": "https://unifiedjs.com",
             "id": 61484507,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-21T09:20:09Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-highlight",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "html",
+              "rehype",
+              "rehype-plugin",
+              "syntax-highlight",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -144,12 +236,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💅 The formatter for the modern web https://prettyhtml.netlify.com/",
+            "homepage": null,
             "id": 137676613,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T19:16:15Z",
+            "open_issues": 12,
             "owner": "Prettyhtml",
             "repo": "prettyhtml",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "angular",
+              "formatter",
+              "html",
+              "html-parser",
+              "prettier",
+              "rehype",
+              "svelte",
+              "vue",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -160,12 +267,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "rehype plugin to highlight code blocks in HTML with Prism (via refractor)",
+            "homepage": null,
             "id": 95053645,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-16T15:39:51Z",
+            "open_issues": 11,
             "owner": "mapbox",
             "repo": "rehype-prism",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "docs-infrastructure"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -176,12 +290,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to transform from HTML (rehype) to Markdown (remark)",
+            "homepage": "https://unifiedjs.com",
             "id": 81585159,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-02T12:19:53Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-remark",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "hast",
+              "mdast",
+              "rehype",
+              "remark",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -192,12 +317,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugins to minify HTML",
+            "homepage": "https://unifiedjs.com",
             "id": 66917836,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-19T15:33:01Z",
+            "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype-minify",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "html",
+              "mangle",
+              "minify",
+              "optimize",
+              "rehype",
+              "rehype-plugin",
+              "rehype-preset"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -208,12 +346,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rehype plugin that adds a table of contents (TOC) to the page",
+            "homepage": "https://jstools.dev/rehype-toc/",
             "id": 192908382,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-29T17:11:53Z",
+            "open_issues": 12,
             "owner": "JS-DevTools",
             "repo": "rehype-toc",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "html",
+              "html5",
+              "javascript",
+              "nodejs",
+              "rehype",
+              "rehype-plugin",
+              "table-of-contents",
+              "toc",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -224,12 +377,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to format HTML",
+            "homepage": "https://unifiedjs.com",
             "id": 71560014,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-19T11:22:46Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-format",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "beautify",
+              "format",
+              "html",
+              "prettify",
+              "print",
+              "rehype",
+              "rehype-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -240,12 +406,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to wrap a fragment in a document",
+            "homepage": "https://unifiedjs.com",
             "id": 61490860,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-18T09:44:27Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-document",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "document",
+              "html",
+              "rehype",
+              "rehype-plugin",
+              "wrap"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -256,12 +433,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML processor to parse and compile with browser APIs, powered by plugins",
+            "homepage": "https://unifiedjs.com",
             "id": 136067300,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2024-12-09T11:14:17Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-dom",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "ast",
+              "browser",
+              "dom",
+              "html",
+              "javascript",
+              "rehype",
+              "rehype-plugin",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -272,12 +463,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document",
+            "homepage": "https://jstools.dev/rehype-url-inspector",
             "id": 203897175,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-18T19:57:40Z",
+            "open_issues": 2,
             "owner": "JS-DevTools",
             "repo": "rehype-url-inspector",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "broken-links",
+              "html",
+              "html5",
+              "javascript",
+              "nodejs",
+              "rehype",
+              "rehype-plugin",
+              "unified",
+              "url",
+              "url-rewrite",
+              "url-validation",
+              "urls",
+              "validate-url"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -288,12 +498,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to transform from HTML (rehype) to prose (retext)",
+            "homepage": "https://unifiedjs.com",
             "id": 69400025,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-02T14:00:57Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-retext",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "hast",
+              "html",
+              "natural-language",
+              "nlcst",
+              "rehype",
+              "rehype-plugin",
+              "retext",
+              "retext-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -304,12 +528,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rehype plugin that inlines and optimizes SVG images",
+            "homepage": "https://jstools.dev/rehype-inline-svg/",
             "id": 192899310,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-16T14:59:18Z",
+            "open_issues": 2,
             "owner": "JS-DevTools",
             "repo": "rehype-inline-svg",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "html",
+              "html5",
+              "images",
+              "inline",
+              "javascript",
+              "nodejs",
+              "optimizer",
+              "rehype",
+              "rehype-plugin",
+              "svg",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -320,12 +561,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Truncate HTML while preserving its structure",
+            "homepage": null,
             "id": 218245474,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T02:14:42Z",
+            "open_issues": 8,
             "owner": "luk707",
             "repo": "rehype-truncate",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "rehype-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -336,12 +584,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://unifiedjs.com",
             "id": 52511671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T11:25:56Z",
+            "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2251
+            "stars": 2251,
+            "topics": [
+              "ast",
+              "html",
+              "javascript",
+              "rehype",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         }
@@ -358,12 +617,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React-based framework with performance, scalability, and security built in.",
+            "homepage": "https://www.gatsbyjs.com",
             "id": 36040894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:41:15Z",
+            "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55941,
+            "topics": [
+              "blog",
+              "compiler",
+              "gatsby",
+              "graphql",
+              "react",
+              "static-site-generator",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -374,12 +646,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown for the component era",
+            "homepage": "https://mdxjs.com",
             "id": 115229134,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:42:13Z",
+            "open_issues": 20,
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19758
+            "stars": 19758,
+            "topics": [
+              "jsx",
+              "markdown",
+              "mdx",
+              "react",
+              "remark",
+              "unified",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -390,12 +675,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git-based CMS for Static Site Generators",
+            "homepage": "https://decapcms.org",
             "id": 29514104,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:41:03Z",
+            "open_issues": 591,
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19321
+            "stars": 19321,
+            "topics": [
+              "cms",
+              "content-management-system",
+              "decap-cms",
+              "git-based-cms",
+              "headless-cms",
+              "jamstack",
+              "javascript",
+              "netlify-cms",
+              "npm-package",
+              "react",
+              "static",
+              "static-site",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -406,12 +710,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "♠️ React MDX-based presentation decks",
+            "homepage": "https://mdx-deck.jxnblk.com",
             "id": 142714512,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T01:58:59Z",
+            "open_issues": 141,
             "owner": "jxnblk",
             "repo": "mdx-deck",
-            "stars": 11500
+            "stars": 11500,
+            "topics": [
+              "deck",
+              "gatsby",
+              "gatsby-theme",
+              "gatsbyjs",
+              "keynote",
+              "markdown",
+              "mdx",
+              "mdx-deck",
+              "presentation",
+              "presentation-deck",
+              "react",
+              "reactjs",
+              "slides",
+              "theme-ui",
+              "zero-config"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -422,12 +747,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform SVGs into React components 🦁",
+            "homepage": "https://react-svgr.com",
             "id": 102155012,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-01T18:35:20Z",
+            "open_issues": 148,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11057
+            "stars": 11057,
+            "topics": [
+              "inline-svg",
+              "loader",
+              "react",
+              "react-native",
+              "react-svg",
+              "react-svg-creator",
+              "react-svg-loader",
+              "svg",
+              "svg-react",
+              "svg-to-react",
+              "svg2react",
+              "svgo",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -438,12 +783,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: documentation for modern JavaScript",
+            "homepage": "http://documentation.js.org/",
             "id": 31936600,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-15T18:50:26Z",
+            "open_issues": 204,
             "owner": "documentationjs",
             "repo": "documentation",
-            "stars": 5799
+            "stars": 5799,
+            "topics": [
+              "babel",
+              "documentation",
+              "documentation-tool",
+              "javascript",
+              "jsdoc"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -454,12 +810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ByteMD v1 repository",
+            "homepage": null,
             "id": 700488287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-12T07:00:03Z",
+            "open_issues": 51,
             "owner": "pd4d10",
             "repo": "bytemd",
-            "stars": 1366
+            "stars": 1366,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -470,12 +831,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A static site generator with markdown + react for Next.js",
+            "homepage": "https://nextein.elmasse.io",
             "id": 92770409,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-05-31T14:23:31Z",
+            "open_issues": 3,
             "owner": "elmasse",
             "repo": "nextein",
-            "stars": 887
+            "stars": 887,
+            "topics": [
+              "blog-engine",
+              "frontmatter",
+              "markdown",
+              "nextjs",
+              "react",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -486,12 +859,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💅 The formatter for the modern web https://prettyhtml.netlify.com/",
+            "homepage": null,
             "id": 137676613,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T19:16:15Z",
+            "open_issues": 12,
             "owner": "Prettyhtml",
             "repo": "prettyhtml",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "angular",
+              "formatter",
+              "html",
+              "html-parser",
+              "prettier",
+              "rehype",
+              "svelte",
+              "vue",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -502,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We're back! Now firing notebooks out of a t-shirt gun.",
+            "homepage": null,
             "id": 1155631492,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T13:24:16Z",
+            "open_issues": 32,
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -518,12 +911,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool that converts markdown to HTML.",
+            "homepage": "https://jaywcjlove.github.io/markdown-to-html-cli",
             "id": 409667713,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-21T09:54:34Z",
+            "open_issues": 11,
             "owner": "jaywcjlove",
             "repo": "markdown-to-html-cli",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "action",
+              "actions",
+              "cli",
+              "github-actions",
+              "html",
+              "markdown",
+              "markdown-to-html",
+              "markdown-to-html-cli",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         }
@@ -540,12 +948,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+            "homepage": "https://contribute.freecodecamp.org",
             "id": 28457823,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T19:26:48Z",
+            "open_issues": 236,
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454743
+            "stars": 454757,
+            "topics": [
+              "careers",
+              "certification",
+              "community",
+              "curriculum",
+              "d3",
+              "education",
+              "freecodecamp",
+              "javascript",
+              "learn-to-code",
+              "math",
+              "nodejs",
+              "nonprofits",
+              "programming",
+              "react",
+              "teachers"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -556,12 +985,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "homepage": "https://nodejs.org",
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T18:33:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:08:42Z",
+            "open_issues": 1191,
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119655
+            "stars": 119662,
+            "topics": [
+              "javascript",
+              "js",
+              "linux",
+              "macos",
+              "mit",
+              "node",
+              "nodejs",
+              "runtime",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -572,12 +1016,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deliver web apps with confidence 🚀",
+            "homepage": "https://angular.dev",
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:19:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:06:10Z",
+            "open_issues": 1147,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101004
+            "stars": 101006,
+            "topics": [
+              "angular",
+              "javascript",
+              "pwa",
+              "typescript",
+              "web",
+              "web-framework",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -588,12 +1045,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reactive programming library for JavaScript",
+            "homepage": "https://rxjs.dev",
             "id": 32247847,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T23:15:21Z",
+            "open_issues": 181,
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31703
+            "stars": 31702,
+            "topics": [
+              "javascript",
+              "rxjs"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -604,12 +1069,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ The fundamental numerical library for JavaScript and TypeScript. ✨",
+            "homepage": "https://stdlib.io",
             "id": 54614238,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T18:13:31Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:06:03Z",
+            "open_issues": 1389,
             "owner": "stdlib-js",
             "repo": "stdlib",
-            "stars": 5944
+            "stars": 5945,
+            "topics": [
+              "javascript",
+              "js",
+              "library",
+              "math",
+              "mathematics",
+              "node",
+              "node-js",
+              "nodejs",
+              "numerical",
+              "numerical-computing",
+              "science",
+              "scientific",
+              "scientific-computing",
+              "standard",
+              "statistics",
+              "stats",
+              "stdlib",
+              "typescript",
+              "utilities",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         }
@@ -626,12 +1117,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome remark resources",
+            "homepage": "https://remark.js.org",
             "id": 156001210,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-03T09:29:49Z",
+            "open_issues": 2,
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "remark",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -642,12 +1143,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome MDX resources",
+            "homepage": null,
             "id": 143893040,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-07T09:14:59Z",
+            "open_issues": 0,
             "owner": "mdx-js",
             "repo": "awesome",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "jsx",
+              "markdown",
+              "mdx",
+              "react",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -658,12 +1172,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome unified resources",
+            "homepage": "https://unifiedjs.com",
             "id": 156001590,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-03T13:10:06Z",
+            "open_issues": 0,
             "owner": "unifiedjs",
             "repo": "awesome-unified",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -674,12 +1197,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome retext resources",
+            "homepage": "https://unifiedjs.com",
             "id": 156001493,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-03T10:11:01Z",
+            "open_issues": 0,
             "owner": "retextjs",
             "repo": "awesome-retext",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "retext",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         },
@@ -690,12 +1223,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
+            "homepage": "https://unifiedjs.com",
             "id": 188994543,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-04T11:55:23Z",
+            "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "awesome-syntax-tree",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hast",
+              "mdast",
+              "nlcst",
+              "syntax-tree",
+              "unified",
+              "unist",
+              "xast"
+            ]
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
         }
@@ -704,15 +1252,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:34:48.734Z",
+    "last_updated": "2026-08-29T04:48:38.891Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome rehype resources",
+      "homepage": "https://unifiedjs.com",
       "id": 156001375,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-10T13:25:24Z",
+      "open_issues": 0,
       "owner": "rehypejs",
       "repo": "awesome-rehype",
-      "stars": 239
+      "stars": 239,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rehype",
+        "unified"
+      ]
     },
     "original_repository_sha": "977444d24c80267e0b6710c66d798b627de038f3",
     "enhanced_repository": "enhansome/enhansome-rehype",

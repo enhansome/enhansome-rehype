@@ -63,11 +63,11 @@ collective.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,743 | 🐛 233 | 🌐 TypeScript | 📅 2026-08-28 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 119,655 | 🐛 1,194 | 🌐 JavaScript | 📅 2026-08-28 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,004 | 🐛 1,154 | 🌐 TypeScript | 📅 2026-08-28 - Development platform for mobile and desktop apps.
-* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,703 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,944 | 🐛 1,412 | 🌐 JavaScript | 📅 2026-08-28 - Standard library emphasizing numerical and scientific applications.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,757 | 🐛 236 | 🌐 TypeScript | 📅 2026-08-28 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 119,662 | 🐛 1,191 | 🌐 JavaScript | 📅 2026-08-29 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,006 | 🐛 1,147 | 🌐 TypeScript | 📅 2026-08-29 - Development platform for mobile and desktop apps.
+* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,702 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,945 | 🐛 1,389 | 🌐 JavaScript | 📅 2026-08-29 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
