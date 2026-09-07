@@ -20,7 +20,7 @@ collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,030 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,029 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,252 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - Repository.
 * [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) ⭐ 2,252 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - HTML parser.
 * [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) ⭐ 2,252 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - HTML generator.
@@ -50,24 +50,24 @@ collective.
 ## Built on rehype
 
 * [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 443 | 🌐 JavaScript | 📅 2026-09-04 - Blazing fast, modern apps and websites with React.
-* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,771 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-02 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,350 | 🐛 589 | 🌐 JavaScript | 📅 2026-09-06 - CMS for static site generators (formerly netlify-cms).
+* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,773 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-02 - Markdown combined with JSX.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,356 | 🐛 590 | 🌐 JavaScript | 📅 2026-09-07 - CMS for static site generators (formerly netlify-cms).
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,498 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
 * [svgr](https://github.com/gregberge/svgr) ⭐ 11,059 | 🐛 149 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
-* [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,800 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
+* [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,799 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
 * [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,366 | 🐛 51 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) ⭐ 288 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [nteract](https://github.com/nteract/nteract) ⭐ 167 | 🐛 31 | 🌐 Rust | 📅 2026-09-06 - Interactive computing suite for you.
+* [nteract](https://github.com/nteract/nteract) ⭐ 167 | 🐛 32 | 🌐 Rust | 📅 2026-09-07 - Interactive computing suite for you.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) ⭐ 94 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-21 - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 455,089 | 🐛 200 | 🌐 TypeScript | 📅 2026-09-05 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 120,679 | 🐛 1,214 | 🌐 JavaScript | 📅 2026-09-06 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,013 | 🐛 1,153 | 🌐 TypeScript | 📅 2026-09-04 - Development platform for mobile and desktop apps.
-* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,700 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,951 | 🐛 1,430 | 🌐 JavaScript | 📅 2026-09-06 - Standard library emphasizing numerical and scientific applications.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 455,165 | 🐛 201 | 🌐 TypeScript | 📅 2026-09-05 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 121,150 | 🐛 1,209 | 🌐 JavaScript | 📅 2026-09-07 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,017 | 🐛 1,165 | 🌐 TypeScript | 📅 2026-09-04 - Development platform for mobile and desktop apps.
+* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,698 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,952 | 🐛 1,443 | 🌐 JavaScript | 📅 2026-09-07 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
