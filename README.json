@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5032,
+            "stars": 5034,
             "topics": [
               "ast",
               "cst",
@@ -49,7 +49,7 @@
             "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "ast",
               "html",
@@ -76,7 +76,7 @@
             "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "ast",
               "html",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "ast",
               "html",
@@ -130,7 +130,7 @@
             "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "ast",
               "html",
@@ -190,7 +190,7 @@
             "open_issues": 0,
             "owner": "rehypejs",
             "repo": "rehype-react",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "preact",
               "react",
@@ -245,7 +245,7 @@
             "open_issues": 12,
             "owner": "Prettyhtml",
             "repo": "prettyhtml",
-            "stars": 288,
+            "stars": 286,
             "topics": [
               "angular",
               "formatter",
@@ -593,7 +593,7 @@
             "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "ast",
               "html",
@@ -626,7 +626,7 @@
             "open_issues": 450,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55938,
             "topics": [
               "blog",
               "compiler",
@@ -651,11 +651,11 @@
             "id": 115229134,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:12:00Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-21T06:33:07Z",
+            "open_issues": 18,
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19791,
+            "stars": 19794,
             "topics": [
               "jsx",
               "markdown",
@@ -684,7 +684,7 @@
             "open_issues": 594,
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19393,
+            "stars": 19391,
             "topics": [
               "cms",
               "content-management-system",
@@ -792,7 +792,7 @@
             "open_issues": 204,
             "owner": "documentationjs",
             "repo": "documentation",
-            "stars": 5798,
+            "stars": 5797,
             "topics": [
               "babel",
               "documentation",
@@ -868,7 +868,7 @@
             "open_issues": 12,
             "owner": "Prettyhtml",
             "repo": "prettyhtml",
-            "stars": 288,
+            "stars": 286,
             "topics": [
               "angular",
               "formatter",
@@ -895,7 +895,7 @@
             "id": 1155631492,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T09:43:49Z",
+            "last_commit": "2026-09-21T09:45:46Z",
             "open_issues": 35,
             "owner": "nteract",
             "repo": "nteract",
@@ -953,11 +953,11 @@
             "id": 28457823,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T12:33:13Z",
+            "last_commit": "2026-09-21T14:19:38Z",
             "open_issues": 218,
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 455818,
+            "stars": 455879,
             "topics": [
               "careers",
               "certification",
@@ -990,11 +990,11 @@
             "id": 27193779,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T11:20:30Z",
+            "last_commit": "2026-09-21T13:19:48Z",
             "open_issues": 1186,
             "owner": "nodejs",
             "repo": "node",
-            "stars": 122017,
+            "stars": 122022,
             "topics": [
               "javascript",
               "js",
@@ -1022,10 +1022,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-18T18:08:06Z",
-            "open_issues": 1192,
+            "open_issues": 1195,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101015,
+            "stars": 101020,
             "topics": [
               "angular",
               "javascript",
@@ -1054,7 +1054,7 @@
             "open_issues": 187,
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31700,
+            "stars": 31703,
             "topics": [
               "javascript",
               "rxjs"
@@ -1074,11 +1074,11 @@
             "id": 54614238,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T12:16:00Z",
-            "open_issues": 1562,
+            "last_commit": "2026-09-21T14:25:08Z",
+            "open_issues": 1559,
             "owner": "stdlib-js",
             "repo": "stdlib",
-            "stars": 5968,
+            "stars": 5969,
             "topics": [
               "javascript",
               "js",
@@ -1252,7 +1252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:36:11.094Z",
+    "last_updated": "2026-09-21T14:31:04.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome rehype resources",
