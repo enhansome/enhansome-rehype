@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5036,
+            "stars": 5037,
             "topics": [
               "ast",
               "cst",
@@ -626,7 +626,7 @@
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944,
+            "stars": 55945,
             "topics": [
               "blog",
               "compiler",
@@ -756,7 +756,7 @@
             "open_issues": 151,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11058,
+            "stars": 11059,
             "topics": [
               "inline-svg",
               "loader",
@@ -899,7 +899,7 @@
             "open_issues": 48,
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 176,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:48.734Z"
@@ -953,11 +953,11 @@
             "id": 28457823,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T08:53:40Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-06T13:57:23Z",
+            "open_issues": 200,
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 456831,
+            "stars": 456840,
             "topics": [
               "careers",
               "certification",
@@ -990,11 +990,11 @@
             "id": 27193779,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:07:22Z",
+            "last_commit": "2026-10-06T13:28:41Z",
             "open_issues": 1180,
             "owner": "nodejs",
             "repo": "node",
-            "stars": 122383,
+            "stars": 122405,
             "topics": [
               "javascript",
               "js",
@@ -1022,10 +1022,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T17:22:28Z",
-            "open_issues": 1163,
+            "open_issues": 1167,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101019,
+            "stars": 101017,
             "topics": [
               "angular",
               "javascript",
@@ -1054,7 +1054,7 @@
             "open_issues": 189,
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31694,
+            "stars": 31695,
             "topics": [
               "javascript",
               "rxjs"
@@ -1074,11 +1074,11 @@
             "id": 54614238,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:28:34Z",
-            "open_issues": 1672,
+            "last_commit": "2026-10-06T12:25:29Z",
+            "open_issues": 1673,
             "owner": "stdlib-js",
             "repo": "stdlib",
-            "stars": 5984,
+            "stars": 5986,
             "topics": [
               "javascript",
               "js",
@@ -1252,7 +1252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:50.004Z",
+    "last_updated": "2026-10-06T14:26:17.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome rehype resources",
