@@ -20,7 +20,7 @@ collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,042 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,043 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,261 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - Repository.
 * [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) ⭐ 2,261 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - HTML parser.
 * [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) ⭐ 2,261 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - HTML generator.
@@ -49,25 +49,25 @@ collective.
 
 ## Built on rehype
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,936 | 🐛 457 | 🌐 JavaScript | 📅 2026-10-20 - Blazing fast, modern apps and websites with React.
-* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,829 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-20 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,441 | 🐛 437 | 🌐 JavaScript | 📅 2026-10-21 - CMS for static site generators (formerly netlify-cms).
-* [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,497 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
-* [svgr](https://github.com/gregberge/svgr) ⭐ 11,057 | 🐛 151 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,935 | 🐛 458 | 🌐 JavaScript | 📅 2026-10-20 - Blazing fast, modern apps and websites with React.
+* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,830 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-20 - Markdown combined with JSX.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,441 | 🐛 423 | 🌐 JavaScript | 📅 2026-10-23 - CMS for static site generators (formerly netlify-cms).
+* [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,498 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
+* [svgr](https://github.com/gregberge/svgr) ⭐ 11,058 | 🐛 151 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
 * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,796 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
-* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,375 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
+* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,376 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) ⭐ 286 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [nteract](https://github.com/nteract/nteract) ⭐ 184 | 🐛 53 | 🌐 Rust | 📅 2026-10-22 - Interactive computing suite for you.
+* [nteract](https://github.com/nteract/nteract) ⭐ 184 | 🐛 50 | 🌐 Rust | 📅 2026-10-23 - Interactive computing suite for you.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) ⭐ 95 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21 - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 457,683 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-22 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 122,538 | 🐛 1,261 | 🌐 JavaScript | 📅 2026-10-22 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,102 | 🐛 1,172 | 🌐 TypeScript | 📅 2026-10-22 - Development platform for mobile and desktop apps.
-* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,701 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,002 | 🐛 1,790 | 🌐 JavaScript | 📅 2026-10-22 - Standard library emphasizing numerical and scientific applications.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 457,761 | 🐛 184 | 🌐 TypeScript | 📅 2026-10-23 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 122,616 | 🐛 1,262 | 🌐 JavaScript | 📅 2026-10-23 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,100 | 🐛 1,158 | 🌐 TypeScript | 📅 2026-10-23 - Development platform for mobile and desktop apps.
+* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,700 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,001 | 🐛 1,794 | 🌐 JavaScript | 📅 2026-10-23 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
