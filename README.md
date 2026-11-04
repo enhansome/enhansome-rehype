@@ -20,7 +20,7 @@ collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,050 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,051 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,260 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - Repository.
 * [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) ⭐ 2,260 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - HTML parser.
 * [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) ⭐ 2,260 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - HTML generator.
@@ -31,9 +31,9 @@ collective.
 ## Plugins
 
 * [rehype-react](https://github.com/rehypejs/rehype-react) ⭐ 438 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-25 - Generate React.
-* [rehype-highlight](https://github.com/rehypejs/rehype-highlight) ⭐ 333 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-21 - Highlight code blocks with [lowlight](https://github.com/wooorm/lowlight) ⭐ 926 | 🐛 7 | 🌐 JavaScript | 📅 2024-12-14 (Highlight.js).
+* [rehype-highlight](https://github.com/rehypejs/rehype-highlight) ⭐ 334 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-21 - Highlight code blocks with [lowlight](https://github.com/wooorm/lowlight) ⭐ 926 | 🐛 7 | 🌐 JavaScript | 📅 2024-12-14 (Highlight.js).
 * [rehype-webparser](https://github.com/Prettyhtml/prettyhtml/tree/HEAD/packages/rehype-webparser) ⭐ 286 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - XML-like HTML parser.
-* [rehype-prism](https://github.com/mapbox/rehype-prism) ⚠️ Archived - Highlight code blocks with [refractor](https://github.com/wooorm/refractor) ⭐ 868 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-11 (Prism).
+* [rehype-prism](https://github.com/mapbox/rehype-prism) ⚠️ Archived - Highlight code blocks with [refractor](https://github.com/wooorm/refractor) ⭐ 869 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-11 (Prism).
 * [rehype-remark](https://github.com/rehypejs/rehype-remark) ⭐ 102 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-02 - Integrate with the [remark][] ecosystem.
 * [rehype-minify](https://github.com/rehypejs/rehype-minify) ⭐ 101 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-19 - Minify HTML.
 * [rehype-toc](https://github.com/JS-DevTools/rehype-toc) ⭐ 83 | 🐛 12 | 🌐 JavaScript | 📅 2024-07-29 - Add a table of contents (TOC).
@@ -49,25 +49,25 @@ collective.
 
 ## Built on rehype
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,919 | 🐛 460 | 🌐 JavaScript | 📅 2026-10-20 - Blazing fast, modern apps and websites with React.
-* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,846 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-02 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,461 | 🐛 405 | 🌐 JavaScript | 📅 2026-11-01 - CMS for static site generators (formerly netlify-cms).
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,920 | 🐛 460 | 🌐 JavaScript | 📅 2026-10-20 - Blazing fast, modern apps and websites with React.
+* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,848 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-04 - Markdown combined with JSX.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,460 | 🐛 411 | 🌐 JavaScript | 📅 2026-11-01 - CMS for static site generators (formerly netlify-cms).
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,493 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
-* [svgr](https://github.com/gregberge/svgr) ⭐ 11,061 | 🐛 151 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
-* [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,797 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
-* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,374 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
+* [svgr](https://github.com/gregberge/svgr) ⭐ 11,060 | 🐛 151 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
+* [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,795 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
+* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,375 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) ⭐ 286 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [nteract](https://github.com/nteract/nteract) ⭐ 191 | 🐛 76 | 🌐 Rust | 📅 2026-11-03 - Interactive computing suite for you.
+* [nteract](https://github.com/nteract/nteract) ⭐ 191 | 🐛 78 | 🌐 Rust | 📅 2026-11-04 - Interactive computing suite for you.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) ⭐ 95 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21 - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 458,492 | 🐛 177 | 🌐 TypeScript | 📅 2026-11-03 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 123,206 | 🐛 1,299 | 🌐 JavaScript | 📅 2026-11-03 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,099 | 🐛 1,029 | 🌐 TypeScript | 📅 2026-11-03 - Development platform for mobile and desktop apps.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 458,532 | 🐛 174 | 🌐 TypeScript | 📅 2026-11-04 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 123,227 | 🐛 1,311 | 🌐 JavaScript | 📅 2026-11-04 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,101 | 🐛 1,003 | 🌐 TypeScript | 📅 2026-11-04 - Development platform for mobile and desktop apps.
 * [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,710 | 🐛 202 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,009 | 🐛 1,814 | 🌐 JavaScript | 📅 2026-11-03 - Standard library emphasizing numerical and scientific applications.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,011 | 🐛 1,809 | 🌐 JavaScript | 📅 2026-11-04 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
