@@ -2,7 +2,7 @@
 
 # awesome rehype with stars
 
-[<img align="right" alt src="https://raw.githubusercontent.com/rehypejs/rehype/26ea958/logo-square.svg?sanitize=true" width="200">](https://github.com/rehypejs/rehype) ⭐ 2,258 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13
+[<img align="right" alt src="https://raw.githubusercontent.com/rehypejs/rehype/26ea958/logo-square.svg?sanitize=true" width="200">](https://github.com/rehypejs/rehype) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13
 
 > A curated list of awesome **[rehype][]** resources.
 
@@ -20,11 +20,11 @@ collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,051 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
-* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,258 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - Repository.
-* [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) ⭐ 2,258 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML parser.
-* [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) ⭐ 2,258 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML generator.
-* [rehype-cli](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-cli) ⭐ 2,258 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - Command line interface.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,052 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - Repository.
+* [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML parser.
+* [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML generator.
+* [rehype-cli](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-cli) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - Command line interface.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 914 | 🐛 0 | 📅 2025-02-17 - Abstract syntax tree specification.
 * [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
 
@@ -36,7 +36,7 @@ collective.
 * [rehype-prism](https://github.com/mapbox/rehype-prism) ⚠️ Archived - Highlight code blocks with [refractor](https://github.com/wooorm/refractor) ⭐ 869 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-11 (Prism).
 * [rehype-remark](https://github.com/rehypejs/rehype-remark) ⭐ 102 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-02 - Integrate with the [remark][] ecosystem.
 * [rehype-minify](https://github.com/rehypejs/rehype-minify) ⭐ 101 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-19 - Minify HTML.
-* [rehype-toc](https://github.com/JS-DevTools/rehype-toc) ⭐ 83 | 🐛 12 | 🌐 JavaScript | 📅 2024-07-29 - Add a table of contents (TOC).
+* [rehype-toc](https://github.com/JS-DevTools/rehype-toc) ⭐ 84 | 🐛 12 | 🌐 JavaScript | 📅 2024-07-29 - Add a table of contents (TOC).
 * [rehype-format](https://github.com/rehypejs/rehype-format) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-19 - Format HTML.
 * [rehype-document](https://github.com/rehypejs/rehype-document) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-18 - Wrap a fragment in a document.
 * [rehype-dom](https://github.com/rehypejs/rehype-dom) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-09 - Use the DOM to parse / stringify in the browser.
@@ -45,29 +45,29 @@ collective.
 * [rehype-inline-svg](https://github.com/JS-DevTools/rehype-inline-svg) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2024-05-16 - Inline and optimize SVGs.
 * [rehype-truncate](https://github.com/luk707/rehype-truncate) ⭐ 6 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-06 - Truncate HTML while preserving its structure.
 
-[Find more plugins »](https://github.com/rehypejs/rehype/blob/HEAD/doc/plugins.md#list-of-plugins) ⭐ 2,258 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13
+[Find more plugins »](https://github.com/rehypejs/rehype/blob/HEAD/doc/plugins.md#list-of-plugins) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13
 
 ## Built on rehype
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,917 | 🐛 462 | 🌐 JavaScript | 📅 2026-10-20 - Blazing fast, modern apps and websites with React.
-* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,853 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-06 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,464 | 🐛 420 | 🌐 JavaScript | 📅 2026-11-01 - CMS for static site generators (formerly netlify-cms).
-* [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,494 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
-* [svgr](https://github.com/gregberge/svgr) ⭐ 11,058 | 🐛 152 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,916 | 🐛 461 | 🌐 JavaScript | 📅 2026-11-09 - Blazing fast, modern apps and websites with React.
+* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,857 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-06 - Markdown combined with JSX.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,468 | 🐛 421 | 🌐 JavaScript | 📅 2026-11-09 - CMS for static site generators (formerly netlify-cms).
+* [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,495 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
+* [svgr](https://github.com/gregberge/svgr) ⭐ 11,059 | 🐛 152 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
 * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,794 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
 * [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,376 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) ⭐ 285 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [nteract](https://github.com/nteract/nteract) ⭐ 192 | 🐛 85 | 🌐 Rust | 📅 2026-11-08 - Interactive computing suite for you.
+* [nteract](https://github.com/nteract/nteract) ⭐ 192 | 🐛 80 | 🌐 Rust | 📅 2026-11-09 - Interactive computing suite for you.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) ⭐ 95 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21 - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 458,747 | 🐛 190 | 🌐 TypeScript | 📅 2026-11-06 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 123,412 | 🐛 1,320 | 🌐 JavaScript | 📅 2026-11-08 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,466 | 🐛 1,038 | 🌐 TypeScript | 📅 2026-11-07 - Development platform for mobile and desktop apps.
-* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,712 | 🐛 202 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,013 | 🐛 1,834 | 🌐 JavaScript | 📅 2026-11-08 - Standard library emphasizing numerical and scientific applications.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 458,813 | 🐛 194 | 🌐 TypeScript | 📅 2026-11-09 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 123,439 | 🐛 1,321 | 🌐 JavaScript | 📅 2026-11-09 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,464 | 🐛 1,050 | 🌐 TypeScript | 📅 2026-11-07 - Development platform for mobile and desktop apps.
+* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,713 | 🐛 202 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,017 | 🐛 1,832 | 🌐 JavaScript | 📅 2026-11-09 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
