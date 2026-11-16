@@ -20,7 +20,7 @@ collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,053 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,054 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,261 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - Repository.
 * [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) ⭐ 2,261 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML parser.
 * [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) ⭐ 2,261 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML generator.
@@ -49,25 +49,25 @@ collective.
 
 ## Built on rehype
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,916 | 🐛 461 | 🌐 JavaScript | 📅 2026-11-11 - Blazing fast, modern apps and websites with React.
-* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,861 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-11 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,481 | 🐛 422 | 🌐 JavaScript | 📅 2026-11-09 - CMS for static site generators (formerly netlify-cms).
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,916 | 🐛 463 | 🌐 JavaScript | 📅 2026-11-11 - Blazing fast, modern apps and websites with React.
+* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,862 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-11 - Markdown combined with JSX.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,484 | 🐛 426 | 🌐 JavaScript | 📅 2026-11-16 - CMS for static site generators (formerly netlify-cms).
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,494 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
 * [svgr](https://github.com/gregberge/svgr) ⭐ 11,061 | 🐛 153 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
 * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,794 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
 * [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,376 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) ⭐ 285 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [nteract](https://github.com/nteract/nteract) ⭐ 193 | 🐛 66 | 🌐 JavaScript | 📅 2026-11-15 - Interactive computing suite for you.
+* [nteract](https://github.com/nteract/nteract) ⭐ 193 | 🐛 72 | 🌐 JavaScript | 📅 2026-11-16 - Interactive computing suite for you.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) ⭐ 95 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21 - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,163 | 🐛 186 | 🌐 TypeScript | 📅 2026-11-14 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 123,729 | 🐛 1,313 | 🌐 JavaScript | 📅 2026-11-15 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,489 | 🐛 961 | 🌐 TypeScript | 📅 2026-11-14 - Development platform for mobile and desktop apps.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,211 | 🐛 185 | 🌐 TypeScript | 📅 2026-11-16 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 123,717 | 🐛 1,327 | 🌐 JavaScript | 📅 2026-11-16 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,430 | 🐛 966 | 🌐 TypeScript | 📅 2026-11-14 - Development platform for mobile and desktop apps.
 * [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,718 | 🐛 204 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,027 | 🐛 1,838 | 🌐 JavaScript | 📅 2026-11-15 - Standard library emphasizing numerical and scientific applications.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,031 | 🐛 1,831 | 🌐 JavaScript | 📅 2026-11-16 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
