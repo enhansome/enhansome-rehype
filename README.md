@@ -20,7 +20,7 @@ collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,054 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,056 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - Repository.
 * [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML parser.
 * [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) ⭐ 2,260 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML generator.
@@ -31,11 +31,11 @@ collective.
 ## Plugins
 
 * [rehype-react](https://github.com/rehypejs/rehype-react) ⭐ 437 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-25 - Generate React.
-* [rehype-highlight](https://github.com/rehypejs/rehype-highlight) ⭐ 333 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-21 - Highlight code blocks with [lowlight](https://github.com/wooorm/lowlight) ⭐ 928 | 🐛 7 | 🌐 JavaScript | 📅 2024-12-14 (Highlight.js).
+* [rehype-highlight](https://github.com/rehypejs/rehype-highlight) ⭐ 333 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-21 - Highlight code blocks with [lowlight](https://github.com/wooorm/lowlight) ⭐ 928 | 🐛 8 | 🌐 JavaScript | 📅 2024-12-14 (Highlight.js).
 * [rehype-webparser](https://github.com/Prettyhtml/prettyhtml/tree/HEAD/packages/rehype-webparser) ⭐ 285 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - XML-like HTML parser.
 * [rehype-prism](https://github.com/mapbox/rehype-prism) ⚠️ Archived - Highlight code blocks with [refractor](https://github.com/wooorm/refractor) ⭐ 869 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-11 (Prism).
 * [rehype-remark](https://github.com/rehypejs/rehype-remark) ⭐ 102 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-02 - Integrate with the [remark][] ecosystem.
-* [rehype-minify](https://github.com/rehypejs/rehype-minify) ⭐ 101 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-19 - Minify HTML.
+* [rehype-minify](https://github.com/rehypejs/rehype-minify) ⭐ 102 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-19 - Minify HTML.
 * [rehype-toc](https://github.com/JS-DevTools/rehype-toc) ⭐ 84 | 🐛 12 | 🌐 JavaScript | 📅 2024-07-29 - Add a table of contents (TOC).
 * [rehype-format](https://github.com/rehypejs/rehype-format) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-19 - Format HTML.
 * [rehype-document](https://github.com/rehypejs/rehype-document) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-18 - Wrap a fragment in a document.
@@ -50,24 +50,24 @@ collective.
 ## Built on rehype
 
 * [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,914 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 - Blazing fast, modern apps and websites with React.
-* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,869 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,494 | 🐛 392 | 🌐 JavaScript | 📅 2026-11-19 - CMS for static site generators (formerly netlify-cms).
+* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,867 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20 - Markdown combined with JSX.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,495 | 🐛 394 | 🌐 JavaScript | 📅 2026-11-22 - CMS for static site generators (formerly netlify-cms).
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,496 | 🐛 141 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
 * [svgr](https://github.com/gregberge/svgr) ⭐ 11,063 | 🐛 153 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
 * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,793 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
-* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,377 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
+* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,378 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) ⭐ 285 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [nteract](https://github.com/nteract/nteract) ⭐ 194 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-21 - Interactive computing suite for you.
+* [nteract](https://github.com/nteract/nteract) ⭐ 194 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-22 - Interactive computing suite for you.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) ⭐ 95 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21 - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,424 | 🐛 158 | 🌐 TypeScript | 📅 2026-11-21 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 123,812 | 🐛 1,302 | 🌐 JavaScript | 📅 2026-11-21 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,469 | 🐛 977 | 🌐 TypeScript | 📅 2026-11-20 - Development platform for mobile and desktop apps.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,478 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-21 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 123,907 | 🐛 1,305 | 🌐 JavaScript | 📅 2026-11-22 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,538 | 🐛 979 | 🌐 TypeScript | 📅 2026-11-20 - Development platform for mobile and desktop apps.
 * [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,721 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,033 | 🐛 1,843 | 🌐 JavaScript | 📅 2026-11-21 - Standard library emphasizing numerical and scientific applications.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,032 | 🐛 1,850 | 🌐 JavaScript | 📅 2026-11-22 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
