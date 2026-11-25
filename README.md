@@ -49,25 +49,25 @@ collective.
 
 ## Built on rehype
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,916 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 - Blazing fast, modern apps and websites with React.
-* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,866 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20 - Markdown combined with JSX.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,501 | 🐛 393 | 🌐 JavaScript | 📅 2026-11-22 - CMS for static site generators (formerly netlify-cms).
-* [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,494 | 🐛 140 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
-* [svgr](https://github.com/gregberge/svgr) ⭐ 11,063 | 🐛 153 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,919 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 - Blazing fast, modern apps and websites with React.
+* [MDX](https://github.com/mdx-js/mdx) ⭐ 19,867 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-25 - Markdown combined with JSX.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,502 | 🐛 392 | 🌐 JavaScript | 📅 2026-11-25 - CMS for static site generators (formerly netlify-cms).
+* [mdx-deck](https://github.com/jxnblk/mdx-deck) ⭐ 11,495 | 🐛 140 | 🌐 JavaScript | 📅 2023-01-04 - MDX-based presentation decks.
+* [svgr](https://github.com/gregberge/svgr) ⭐ 11,062 | 🐛 153 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
 * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,791 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
-* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,378 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
+* [bytemd](https://github.com/pd4d10/bytemd) ⭐ 1,379 | 🐛 51 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [nextein](https://github.com/elmasse/nextein) ⚠️ Archived - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) ⭐ 285 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-03 - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [nteract](https://github.com/nteract/nteract) ⭐ 194 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-24 - Interactive computing suite for you.
+* [nteract](https://github.com/nteract/nteract) ⭐ 194 | 🐛 78 | 🌐 JavaScript | 📅 2026-11-25 - Interactive computing suite for you.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) ⭐ 95 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21 - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,572 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-24 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 123,915 | 🐛 1,290 | 🌐 JavaScript | 📅 2026-11-24 - Node.js JavaScript runtime.
-* [angular](https://github.com/angular/angular) ⭐ 101,512 | 🐛 962 | 🌐 TypeScript | 📅 2026-11-24 - Development platform for mobile and desktop apps.
-* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,717 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,036 | 🐛 1,877 | 🌐 JavaScript | 📅 2026-11-24 - Standard library emphasizing numerical and scientific applications.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,625 | 🐛 156 | 🌐 TypeScript | 📅 2026-11-25 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 123,996 | 🐛 1,280 | 🌐 JavaScript | 📅 2026-11-25 - Node.js JavaScript runtime.
+* [angular](https://github.com/angular/angular) ⭐ 101,580 | 🐛 957 | 🌐 TypeScript | 📅 2026-11-25 - Development platform for mobile and desktop apps.
+* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,716 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - Reactive Extensions For JavaScript.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 6,037 | 🐛 1,889 | 🌐 JavaScript | 📅 2026-11-25 - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
@@ -103,4 +103,4 @@ collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
